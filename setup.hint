@@ -1,0 +1,5 @@
+category: X11
+requires: fontconfig mkfontcache mkfontdir font-encodings
+sdesc: "Script OpenType font with ligatures"
+ldesc: "A lovely Bold Condensed Script font fully loaded with hundreds 
+of subtle ligatures and alternates."
